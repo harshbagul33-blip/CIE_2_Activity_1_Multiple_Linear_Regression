@@ -25,3 +25,5 @@ CIE_2_Activity_1_Multiple_Linear_Regression
 **Target Variable:** MedHouseVal (Median House Value)
 
 **Objective:** To predict median house values using Multiple Linear Regression.
+
+https://github.com/complexiota
